@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Palmer King
+- 👀 I’m interested in ... python
+- 🌱 I’m currently learning ... general programming skills and languages at Colgate University 
+- 💞️ I’m looking to collaborate on ... anything, really! 
+- 📫 How to reach me ... mpking@colgate.edu or palmerking13@gmail.com
